@@ -1,0 +1,10 @@
+name: CustomSwords
+version: 1.0.3
+author: "§l§aAzumki"
+main: azumki\CustomWeapons\Main
+api: 5.6.0
+src-namespace-prefix: Lord\CustomWeapons
+description: "§l§dTotal Swords\n1. §l§aWarpblade\n2. §l§aBoombringer\n3. §l§aThunderstrik\n4. §l§aSkysoarer\n5. §l§aFlame Infro\n6. §l§aGalewind Sword\n7. §l§aAgisbane\n8. §l§aLifebringer"
+permissions:
+  cmd.ctools.use:
+    default: op
